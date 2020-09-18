@@ -3,4 +3,4 @@ This is a script to add registry keys to run a payload executable. This allows r
 
 To use: Run the reg_tool.py script and provide your choice of payload(exe, dll, other) as an argument.
 
-reg_tool.py <payload>
+reg_tool.py [payload]
